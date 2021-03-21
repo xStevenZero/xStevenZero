@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=xStevenZero&count_private=true&theme=react&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/xStevenZero)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xStevenZero&repo=enma&theme=react&show_owner=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xStevenZero&layout=compact&theme=react)](https://github.com/xStevenZero)
 ![Metrics](https://metrics.lecoq.io/xStevenZero?template=terminal&languages=1&lines=1&languages.colors=github&languages.threshold=0%25&config.timezone=Africa%2FCasablanca&config.twemoji=true&config.padding=16%25%2C%2013%25)
 <!--
 **xStevenZero/xStevenZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
